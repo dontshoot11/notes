@@ -8,7 +8,7 @@ import newNote from "./components/noteInput.vue";
 import editor from "./components/editor.vue";
 
 const routes = [{
-        path: "",
+        path: "/",
         component: noteList
     },
 
